@@ -1,3 +1,6 @@
 fuction a(){
 
 }
+fuction c(){
+
+}
