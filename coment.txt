@@ -1,6 +1,6 @@
 fuction a(){
 
 }
-fuction c(){
+fuction c(master){
 
 }
