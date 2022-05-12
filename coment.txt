@@ -1,3 +1,7 @@
+fuction b(){
+
+}
 fuction a(){
 
 }
+
