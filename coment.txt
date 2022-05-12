@@ -1,7 +1,7 @@
 fuction b(){
 
 }
-fuction a(){
+fuction a(exp){
 
 }
 
