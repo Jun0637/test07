@@ -1,6 +1,10 @@
-fuction a(){
+fuction b(){
 
 }
-fuction c(master){
+fuction c(master, exp){
 
 }
+fuction a(exp){
+
+}
+
